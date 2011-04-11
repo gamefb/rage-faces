@@ -1,7 +1,7 @@
 # Rage Faces
 
 In this repo are some of the rage faces used by the
-[ffffffffffff](http://www.reddit.com/r/fffffffuuuuuuuuuuuu)
+[fffffffuuuuuuuuuuuu](http://www.reddit.com/r/fffffffuuuuuuuuuuuu)
 and [memebase](http://memebase.com) communities, and, of
 course, 4chan.
 
